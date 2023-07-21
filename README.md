@@ -4,6 +4,10 @@ I used HTML-5, CSS and JS for creating this project.
 
 Here are some previews :
 
+Netlify :
+
+https://watchverse-moviewebsite.netlify.app/
+
 Web preview : 
 
 ![giff](https://github.com/mhakby/WatchVerse-MovieProject/assets/123645842/bfe6f7ea-887c-41f3-a6c6-eea6cd43b965)
